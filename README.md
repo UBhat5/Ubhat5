@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analyst with experience in Power BI and a strong background in data modeling, DAX, and dashboard development. Skilled in transforming complex data into actionable insights, integrating multiple data sources, and optimizing performance for enterprise-level reporting. Experienced in developing interactive dashboards, implementing security and time-intelligence solutions, and delivering reporting solutions that support strategic decision-making.<br>
+Data Analyst with experience in Power BI and a strong background in data modeling, DAX, and dashboard development. Skilled in transforming complex data into actionable insights, integrating multiple data sources, and optimizing performance for enterprise-level reporting. Experienced in developing interactive dashboards, implementing security and time-intelligence solutions, and delivering reporting solutions that support strategic decision-making.<br>To see my Power BI works - https://github.com/UBhat5/Power-Bi-Projects<br>
 
 
 # 💻 Tech Stack:
